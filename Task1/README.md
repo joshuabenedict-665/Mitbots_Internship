@@ -34,7 +34,7 @@ The dataset includes the following features:
 
 ## ✅ Results
 
-- **Accuracy**: ~85%
+- **Accuracy**: ~93%
 - **High recall for Not Fit class (important for health prediction)**
 - **Feature Importance & ROC curve included**
 
